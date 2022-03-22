@@ -1,5 +1,7 @@
 package org.foo
-Boolean check() {
-return true
-}
+class test {
+  Boolean check() {
+    return true
+  }
 return this
+}
