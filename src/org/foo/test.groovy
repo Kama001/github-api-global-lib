@@ -1,0 +1,3 @@
+Boolean checkFunction() {
+  return true
+}
